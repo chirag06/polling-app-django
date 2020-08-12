@@ -7,8 +7,9 @@
 
 > Create conda environment
 
-`conda create --name env`
-`conda activate env`
+    conda create --name env
+    conda activate env
+
 > Clone the project and install required packages
 
     pip install -r requirements.txt<br>
