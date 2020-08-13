@@ -12,7 +12,7 @@
 
 > Clone the project and install required packages
 
-    pip install -r requirements.txt<br>
+    pip install -r requirements.txt
     git clone https://github.com/chirag06/polling-app-django.git
 
 > Build database and indexes
@@ -24,4 +24,4 @@
     python manage.py createsuperuser
 > Start server
 
-    python manage.py runserver`
+    python manage.py runserver
